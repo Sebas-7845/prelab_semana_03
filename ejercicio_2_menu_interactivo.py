@@ -23,4 +23,4 @@ while True:
             break  
 # Rompemos el bucle para apagar el robot
         case _:
-            print("Comando no reconocido. Intente de nuevo.")
+            print("Comando no reconocido. Intente de nuevo.")""
